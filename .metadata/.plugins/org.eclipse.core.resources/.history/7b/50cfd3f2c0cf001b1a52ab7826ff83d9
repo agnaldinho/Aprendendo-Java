@@ -1,0 +1,15 @@
+
+public abstract class Funcionario {
+	
+	private double salario;
+	
+	public abstract String getNome();
+	public abstract void RelatorioMensal();
+	
+	public double getSalario() {
+		return this.salario;
+	}
+	public void setSalario(double HorasT) {
+		this.salario = this.salario * HorasT;
+	}
+}

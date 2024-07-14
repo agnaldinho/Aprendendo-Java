@@ -1,0 +1,4 @@
+
+public class Estoquista extends Funcionario {
+
+}

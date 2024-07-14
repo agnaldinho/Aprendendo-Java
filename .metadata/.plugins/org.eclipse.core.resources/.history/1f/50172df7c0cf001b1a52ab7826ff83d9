@@ -1,0 +1,6 @@
+
+public interface Pessoa {
+
+	public String getNome();
+	public void RelatorioMensal();
+}
